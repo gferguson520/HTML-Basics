@@ -5,7 +5,7 @@
 <link rel="CSS_stylesheet_customer_info" href="styles.css">
 </head>
 <body>
-<h1 style="color:blue;">Customer Information</h1>
+<h1 style="color:aqua;">Customer Information</h1>
 
 <p>Please put in your information:</p>
 
